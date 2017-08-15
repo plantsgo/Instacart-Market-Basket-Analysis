@@ -1,6 +1,5 @@
 python products_Word2Vec.py
 python products_Word2Vec_features.py
-python features_order_streaks.py
 
 python create_prior_data.py
 python create_prior_add_data.py
