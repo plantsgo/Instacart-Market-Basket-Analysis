@@ -7,5 +7,3 @@ python create_prior_add_data.py
 
 python basket_v12_prior_and_train_data_cv5_up_up.py
 python basket_v12_prior_and_train_data_cv5_up_up_shuff.py
-
-python features_faron.py
